@@ -1,0 +1,13 @@
+body{
+    background-color: darkgreen;
+}
+h1{    
+    color: brown;
+    font-size: 35px;
+    text-align: center;
+}
+h2{
+    background-color: dimgrey;
+    color: blue;
+    font-size: medium;
+}
