@@ -1,0 +1,30 @@
+nav{
+    background: rgb(2,4,40);
+    background: linear-gradient(90deg, rgba(2,4,40,1) 42%, rgba(0,212,255,1) 100%);
+    text-align: right;
+    padding: 10px;
+}
+nav ul a{
+    color: aliceblue;
+    font-size: 30px;
+    text-decoration: none;
+}
+nav ul a:hover{
+    color: blueviolet;
+}
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+}
+.h1{
+    color: gold;
+}
+body{
+    background: rgb(34,48,195);
+background: linear-gradient(0deg, rgba(34,48,195,1) 18%, rgba(0,0,0,1) 47%);
+}
+.trabalho{
+    border-radius: 100%;
+    border-style: solid;
+}
+

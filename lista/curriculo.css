@@ -1,20 +1,20 @@
 body{
-
+    background-color: black;
 }
 #nome{
-    color: chartreuse;
+    color: royalblue;
 }
 .habilidades{
-    color: chartreuse;
+    color: chocolate;
 }
 .lista{
-    color: chartreuse;
+    color: chocolate;
 }
 .contato{
-    color: chartreuse;
+    color: chocolate;
 }
 .redes{
-    color: chartreuse;
+    color: chocolate;
 }
 
 
